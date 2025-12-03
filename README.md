@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Bhavesh Babhniya!
+# 👋 Hi there, I'm Bhavesh Bambhaniya!
 
 Welcome to my GitHub! I'm a passionate **Java Developer** with a strong foundation in building scalable backend systems and full-stack applications. With expertise in **Core Java**, **Spring Boot**, and **REST APIs**, I love solving complex problems and continuously learning new technologies.
 
